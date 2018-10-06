@@ -1,0 +1,11 @@
+D:\ADS\Praticas de programação\SaldoPoupanca\SaldoPoupanca\obj\Debug\netcoreapp2.1\SaldoPoupanca.csprojAssemblyReference.cache
+D:\ADS\Praticas de programação\SaldoPoupanca\SaldoPoupanca\obj\Debug\netcoreapp2.1\SaldoPoupanca.csproj.CoreCompileInputs.cache
+D:\ADS\Praticas de programação\SaldoPoupanca\SaldoPoupanca\obj\Debug\netcoreapp2.1\SaldoPoupanca.AssemblyInfoInputs.cache
+D:\ADS\Praticas de programação\SaldoPoupanca\SaldoPoupanca\obj\Debug\netcoreapp2.1\SaldoPoupanca.AssemblyInfo.cs
+D:\ADS\Praticas de programação\SaldoPoupanca\SaldoPoupanca\bin\Debug\netcoreapp2.1\SaldoPoupanca.deps.json
+D:\ADS\Praticas de programação\SaldoPoupanca\SaldoPoupanca\bin\Debug\netcoreapp2.1\SaldoPoupanca.runtimeconfig.json
+D:\ADS\Praticas de programação\SaldoPoupanca\SaldoPoupanca\bin\Debug\netcoreapp2.1\SaldoPoupanca.runtimeconfig.dev.json
+D:\ADS\Praticas de programação\SaldoPoupanca\SaldoPoupanca\bin\Debug\netcoreapp2.1\SaldoPoupanca.dll
+D:\ADS\Praticas de programação\SaldoPoupanca\SaldoPoupanca\bin\Debug\netcoreapp2.1\SaldoPoupanca.pdb
+D:\ADS\Praticas de programação\SaldoPoupanca\SaldoPoupanca\obj\Debug\netcoreapp2.1\SaldoPoupanca.dll
+D:\ADS\Praticas de programação\SaldoPoupanca\SaldoPoupanca\obj\Debug\netcoreapp2.1\SaldoPoupanca.pdb
